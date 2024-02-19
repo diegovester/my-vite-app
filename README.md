@@ -123,7 +123,18 @@ export default defineConfig({
 
 # Deploying the App  
 
+## Make Changes and Push  
 Go to GitHub Desktop.  
 You'll see all the changes you've made on the left hand side.  
 Below that, a Summary is requested. Type in something like:  
 > feat: add vite app  
+
+Press the blue "Commit to main" button.
+Press the blue "Push origin" button.  
+
+## Important! Write permissions  
+On GitHub, in your new repository, go to Settings. Click on Actions > General. 
+
+Scroll down to Workflow permissions.  
+Click on "Read and write permissions".  
+Click Save.
