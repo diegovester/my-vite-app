@@ -42,7 +42,7 @@ Now you can see vite app running on your machine! Mine is running on [http://loc
 Create a new directory named .github/workflows.  
 Inside this directory, create a YAML file named deploy.yml.  
 This is where you'll define your GitHub Actions workflow.  
-Copy and paste the following code to your deploy.yml file:  
+Copy and paste the following code to your deploy.yml file. Find and replace homer with whatever you named your project here.
 ```
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy to GitHub Pages
