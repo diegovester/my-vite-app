@@ -144,3 +144,8 @@ Below that, a Summary is requested. Type in something like:
 Press the blue "Commit to main" button.
 Press the blue "Push origin" button.  
 
+# Final notes  
+
+Feel free to fork this repository for your own purposes!
+
+
