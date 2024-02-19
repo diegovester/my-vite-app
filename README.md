@@ -123,6 +123,18 @@ export default defineConfig({
 
 # Deploying the App  
 
+## Important! Settings setup  
+On GitHub, in your new repository, go to Settings.  
+
+Click on Actions > General in the sidebar. 
+Scroll down to Workflow permissions.  
+Click on "Read and write permissions".  
+Click Save.  
+
+Click on Pages in the left sidebar.  
+Scroll down to Build and deployment.  
+Under Source, select "GitHub Actions".  
+
 ## Make Changes and Push  
 Go to GitHub Desktop.  
 You'll see all the changes you've made on the left hand side.  
@@ -132,9 +144,3 @@ Below that, a Summary is requested. Type in something like:
 Press the blue "Commit to main" button.
 Press the blue "Push origin" button.  
 
-## Important! Write permissions  
-On GitHub, in your new repository, go to Settings. Click on Actions > General. 
-
-Scroll down to Workflow permissions.  
-Click on "Read and write permissions".  
-Click Save.
