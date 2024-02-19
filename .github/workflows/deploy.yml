@@ -35,12 +35,12 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
-          cache-dependency-path: './frontend/package-lock.json'
+          cache-dependency-path: './homer/package-lock.json'
       - name: Install dependencies
-        working-directory: ./frontend
+        working-directory: ./homer
         run: npm install
       - name: Build
-        working-directory: ./frontend
+        working-directory: ./homer
         run: npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v3
@@ -48,7 +48,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload dist repository
-          path: './frontend/dist/'
+          path: './homer/dist/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
