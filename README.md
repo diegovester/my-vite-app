@@ -27,5 +27,12 @@ With your Visual Studio Code open, click on Terminal > New Terminal and run the 
 > npm create vite@latest
 
 type y to install the necessary packages  
+It will ask you to name the project. I will name mine ["homer"](https://media1.tenor.com/m/tvjuVcJxIk0AAAAC/skinny-homer-homer-back-fat.gif).  
+Project name: homer   
+Framework: React  
+Variant: TypeScript  
+
+
+
 
 
