@@ -1,5 +1,5 @@
 # Introduction
-This is a step-by-step guide on how to create your own Vite app and host it with GitHub Pages.  
+This is a step-by-step Mobi Byte guide on how to create your own Vite app and host it with GitHub Pages.  
 This guide uses the [official documentation](https://vitejs.dev/guide/static-deploy) and builds off of it. 
 This guide is intended for beginners so we will go into more detail and offer corrections that are needed at the time of this writing.
 
