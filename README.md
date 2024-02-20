@@ -16,7 +16,8 @@ Create a new repository by clicking on the button that says "New".
 Name it "my-vite-app" or any name you prefer.  
 
 Open GitHub Desktop.  
-Clone your new repository. You can do this by going to the top-left and clicking File > Clone Repository. Open the GitHub.com tab and search for the name of your repository. Click on it and decide your local path. I recommend using a path such as: /Developer/githubusername/my-vite-app. But your local path can be anything you'd like.  
+Clone your new repository. You can do this by going to the top-left and clicking File > Clone Repository. Open the GitHub.com tab and search for the name of your repository. Click on it and decide your local path.   
+I recommend using a path such as: /Developer/githubusername/my-vite-app. But your local path can be anything you'd like.   
 Now your GitHub workflow is connected! You should see a "Open in Visual Studio Code" button. Go ahead and click that.  
 
 ## Vite  
