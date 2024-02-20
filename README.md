@@ -4,10 +4,10 @@ This guide uses the [official documentation](https://vitejs.dev/guide/static-dep
 This guide is intended for beginners so we will go into more detail and offer corrections that are needed at the time of this writing.
 
 # Installation  
-Make sure you have a GitHub account set up on https://github.com/
-Make sure you have GitHub Desktop installed from https://desktop.github.com/
-Make sure you have current Node.js installed from https://nodejs.org/en  
-Make sure you have Visual Studio Code installed from https://code.visualstudio.com/download
+Make sure you have a GitHub account set up on https://github.com/.  
+Make sure you have GitHub Desktop installed from https://desktop.github.com/.  
+Make sure you have current Node.js installed from https://nodejs.org/en.    
+Make sure you have Visual Studio Code installed from https://code.visualstudio.com/download.  
 
 # Setup  
 ## GitHub
